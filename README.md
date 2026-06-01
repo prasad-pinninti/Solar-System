@@ -19,11 +19,7 @@ An interactive Solar System visualization built entirely with **HTML5** and **CS
 * CSS Animations
 * CSS Transformations
 * Flexbox
-* Responsive Design
-
-## 📸 Preview
-
-![Solar System Preview](screenshot.png)
+* Responsive Desig
 
 ## 📂 Project Structure
 
@@ -56,7 +52,7 @@ Through this project, I gained hands-on experience with:
 
 ## 🔗 Live Demo
 
-Add your live demo link here after deploying.
+https://solar-system-three-xi.vercel.app/
 
 ## 📌 Author
 
